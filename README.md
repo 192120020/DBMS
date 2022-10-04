@@ -19,7 +19,39 @@
 ![image](https://user-images.githubusercontent.com/112066426/193863597-d2e454ae-67ff-47a0-9955-de11ffb6faf1.png)
 
 ![image](https://user-images.githubusercontent.com/112066426/193863669-7ec3e44d-a1c0-417a-b627-e96048d5d6d2.png)
-## Experiment 3 Output
+## Experiment 3,4 Output
+![image](https://user-images.githubusercontent.com/112066426/193864566-d7c8884d-2a74-4ea5-8acf-4742f7db3132.png)
+
+![image](https://user-images.githubusercontent.com/112066426/193864647-4cc375b9-c7de-446c-b4bb-f8ac37d43292.png)
+
+![image](https://user-images.githubusercontent.com/112066426/193864739-cfcb0494-a7ae-4983-a0b9-83ee8b898823.png)
+## Experiment 5 Output
+![image](https://user-images.githubusercontent.com/112066426/193864901-3ff5955d-513f-4e28-9632-4170f0cd625b.png)
+
+![image](https://user-images.githubusercontent.com/112066426/193865060-4defef28-a13f-4f0d-b475-00946cdc8a32.png)
+
+![image](https://user-images.githubusercontent.com/112066426/193865137-d37060bb-aeef-410b-90c3-d7d1e0eba8f1.png)
+
+![image](https://user-images.githubusercontent.com/112066426/193865290-50b701a4-5c4b-405a-a945-f47f35240587.png)
+
+![image](https://user-images.githubusercontent.com/112066426/193865360-15f55301-b639-4f72-b2e7-8ec6f11de22b.png)
+
+![image](https://user-images.githubusercontent.com/112066426/193865472-284b6ecc-da05-4e2a-a243-c419079af6c0.png)
+## Experiment 6 Out put
+![image](https://user-images.githubusercontent.com/112066426/193865784-97ffc043-970f-4a31-838b-66b3e3373053.png)
+
+![image](https://user-images.githubusercontent.com/112066426/193865864-f2a3d38e-2767-4193-8562-31aabad66683.png)
+
+![image](https://user-images.githubusercontent.com/112066426/193865923-58b1d9df-336d-4b3b-a69a-c011034ea6df.png)
+## Experiment 7 Output
+![image](https://user-images.githubusercontent.com/112066426/193866106-3b3593ea-470b-4a0c-bc3f-0df67523d349.png)
+
+![image](https://user-images.githubusercontent.com/112066426/193866332-b8d7746d-72bd-4098-a75b-8ba70386ba9e.png)
+
+![image](https://user-images.githubusercontent.com/112066426/193866386-3f757d76-24bb-4dca-ac4a-4197fa4e188a.png)
+## Experiment 8 Output
+
+
 
 
 
