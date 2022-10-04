@@ -9,3 +9,5 @@
 ![image](https://user-images.githubusercontent.com/112066426/193742058-dd59ba13-eb73-4ccf-9fc2-e4b72db198a0.png)
 ## Experiment 1 Output
 ![image](https://user-images.githubusercontent.com/112066426/193742601-f79070d8-7823-45b4-b92f-79a25bfc674f.png)
+## Experiment 2 Output
+![image](https://user-images.githubusercontent.com/112066426/193743851-21d71158-270d-47da-af19-31e6813c17b1.png)
