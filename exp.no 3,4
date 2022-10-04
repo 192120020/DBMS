@@ -8,7 +8,7 @@ mysql> select *from w.student;
 | 191711342 | nandu | fm     | 2002-11-14 |  77319232 | chirala |
 +-----------+------+--------+------------+-----------+---------+
 1 row in set (0.00 sec)
-mysql> update w.student set name="vikram" where reg_no=192121123;
+mysql> update w.student set name="vikram" where reg_no=191711347;
 Query OK, 1 row affected (0.01 sec)
 Rows matched: 1  Changed: 1  Warnings: 0
 
