@@ -70,13 +70,11 @@
 ## Experiment 11 Output
 
 ![image](https://user-images.githubusercontent.com/112066426/193868766-b3280eb0-bb30-42e9-a86d-7ded16e5c2cc.png)
+ 
 ![image](https://user-images.githubusercontent.com/112066426/193868809-47eb25c9-de01-417d-a75d-744adeb02425.png)
 
 ## Experiment 12 Output
 ![image](https://user-images.githubusercontent.com/112066426/193868964-2d5546c5-f2f8-4dc0-8b04-d21332fc9947.png)
 
-
-
-
-
+![image](https://user-images.githubusercontent.com/112066426/194217203-6bc0cb77-8683-4af7-9487-2779913dbae5
 
